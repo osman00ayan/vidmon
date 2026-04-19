@@ -1,1 +1,1 @@
-yeni dosya oluşturuldu
+yeni bir dal için pr açılacak
